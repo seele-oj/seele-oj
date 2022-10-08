@@ -1,5 +1,5 @@
 # PMS
-PMS, A full-feature OJ(Online Judge) system
+PMS, A full-feature OJ(Online Judge) system (Rust + Vue.js)
 
 ## Overview
 
