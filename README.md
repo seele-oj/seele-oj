@@ -12,6 +12,7 @@ PMS, A full-feature OJ(Online Judge) system (Rust + Vue.js)
 - [judge-protocol](https://github.com/polymath-cc/judge-protocol): a protocol library of slave-master communication for PMS judge system
 - [pms-frontend](https://github.com/polymath-cc/pms-frontend): a web frontend of PMS
 - [pms-backend](https://github.com/polymath-cc/pms-backend): a web backend of PMS
+- [pms-doc](https://github.com/polymath-cc/pms-doc): the documentations of PMS
 
 ## Contribution
 
