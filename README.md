@@ -1,18 +1,18 @@
-# PMS
-PMS, a full-feature OJ(Online Judge) system (Rust + Vue.js)
+# SeeleOJ
+SeeleOJ, a full-feature OJ(Online Judge) system (Rust + SvelteKit)
 
 ## Overview
 
-![PMS structure diagram](/images/diagram.png)
+![SeeleOJ structure diagram](/images/diagram.png)
 
 ## Projects
 
-- [pms-master](https://github.com/polymath-cc/pms-master): a master node library of PMS
-- [pms-slave](https://github.com/polymath-cc/pms-slave): a slave node of PMS
-- [judge-protocol](https://github.com/polymath-cc/judge-protocol): a protocol library of slave-master communication for PMS judge system
-- [pms-frontend](https://github.com/polymath-cc/pms-frontend): a web frontend of PMS
-- [pms-backend](https://github.com/polymath-cc/pms-backend): a web backend of PMS
-- [pms-doc](https://github.com/polymath-cc/pms-doc): the documentations of PMS
+- [seele-master](https://github.com/seele-oj/seele-rs): a master node library of SOJ
+- [bronya](https://github.com/seele-oj/bronya): a slave node of SOJ
+- [judge-protocol](https://github.com/seele-oj/judge-protocol): a protocol library of slave-master communication for PMS judge system
+- [soj-frontend](https://github.com/seele-oj/soj-frontend): a web frontend of PMS
+- [soj-backend](https://github.com/seele-oj/soj-backend): a web backend of PMS
+- [soj-doc](https://github.com/seele-oj/soj-doc): the documentations of PMS
 
 ## Contribution
 
