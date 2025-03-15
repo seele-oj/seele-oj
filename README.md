@@ -3,7 +3,7 @@ SeeleOJ, a full-feature OJ(Online Judge) system (Rust + SvelteKit)
 
 ## Overview
 
-![SeeleOJ structure diagram](/images/diagram.png)
+![SeeleOJ structure diagram](/images/SeeleOJDiagram.png)
 
 ## Projects
 
